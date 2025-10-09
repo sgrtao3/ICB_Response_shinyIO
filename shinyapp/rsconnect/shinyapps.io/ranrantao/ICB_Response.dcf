@@ -1,0 +1,10 @@
+name: ICB_Response
+title:
+username: ranrantao
+account: ranrantao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15704092
+bundleId: 11011364
+url: https://ranrantao.shinyapps.io/ICB_Response/
+version: 1
