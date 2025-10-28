@@ -22,8 +22,7 @@ The app supports:
 | Feature | Description |
 |----------|-------------|
 | **Cancer Type Coverage** | Includes samples from **Skin (melanoma)**, **Liver (HCC)**, **Breast**, and **Kidney (RCC)** cancers. |
-| **Dynamic Gene Index** | Builds searchable gene lists on-demand for each dataset (PAN-T and CAR-T). |
-| **Interactive Visualizations** | Generates heatmaps, boxplots, CPM bar plots, dot plots, and lollipop plots. |
+| **Interactive Visualizations** | Response comparison across cell types, differential expression across cell types and studies|
 | **Download Support** | Allows exporting filtered DE results as `.tsv` tables. |
 
 ---
