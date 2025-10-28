@@ -21,8 +21,6 @@ The app supports:
 
 | Feature | Description |
 |----------|-------------|
-| **Lazy Loading** | Large datasets (e.g. expression matrices) are only loaded when needed, preventing crashes on limited-memory servers. |
-| **Caching (`cachem`)** | Uses `cachem::cache_mem` to store computed results in memory for faster re-renders. |
 | **Dynamic Gene Index** | Builds searchable gene lists on-demand for each dataset (PAN-T and CAR-T). |
 | **Interactive Visualizations** | Generates heatmaps, boxplots, CPM bar plots, dot plots, and lollipop plots. |
 | **Download Support** | Allows exporting filtered DE results as `.tsv` tables. |
