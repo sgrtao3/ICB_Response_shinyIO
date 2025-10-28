@@ -9,10 +9,11 @@ A Shiny web application for exploring **immunotherapy response** at both **patie
 **ICB Response Explorer** allows users to interactively visualize and compare **Responder vs Non-responder** differences in gene expression across studies and cell types.
 
 The app supports:
-- **Patient-level (pseudobulk)** analysis with boxplots and heatmaps  
-- **Cell-level** analysis from precomputed DE tables with filtering, visualization, and export  
-- **CAR-T patient-level** and **cell-level** modules  
-- (Planned) **CRISPR** analysis module  
+- **Pan-T Patient-level**  
+- **Pan-T Cell-level**
+- **CAR-T patient-level**
+- **CAR-T cell-level** 
+- (Planned) **CRISPR** 
 
 ---
 
