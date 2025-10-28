@@ -1,6 +1,6 @@
 # ICB Response Explorer
 
-A Shiny web application for exploring **immunotherapy response** at both **patient-level (pseudobulk)** and **cell-level (single-cell DE analysis)** across multiple datasets, including **PAN-T** and **CAR-T** studies.
+A Shiny web application for exploring **immunotherapy response** at both **patient-level** and **cell-level** across multiple datasets, including **PAN-T** and **CAR-T** studies.
 
 ---
 
