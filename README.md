@@ -21,7 +21,7 @@ The app supports:
 
 | Feature | Description |
 |----------|-------------|
-| **Interactive Visualizations** | Generates heatmaps, boxplots, CPM bar plots, dot plots, and lollipop plots. |
+| **Cancer Type Coverage** | Includes samples from **Skin (melanoma)**, **Liver (HCC)**, **Breast**, and **Kidney (RCC)** cancers. |
 | **Dynamic Gene Index** | Builds searchable gene lists on-demand for each dataset (PAN-T and CAR-T). |
 | **Interactive Visualizations** | Generates heatmaps, boxplots, CPM bar plots, dot plots, and lollipop plots. |
 | **Download Support** | Allows exporting filtered DE results as `.tsv` tables. |
