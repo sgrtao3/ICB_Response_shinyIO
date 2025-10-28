@@ -33,7 +33,7 @@ Pan-T Datasets are derived from the Nature Medicine (2023) publication:
 > **"A single-cell immune atlas of solid tumors treated with immune checkpoint blockade"**  
 > [https://www.nature.com/articles/s41591-023-02371-y#data-availability](https://www.nature.com/articles/s41591-023-02371-y#data-availability)
 
-Data were accessed from the GEO/SCP repositories linked in the publication and reformatted for Shiny-based visualization.
+Data were accessed from the GEO/SCP repositories linked in the publication.
 
 ---
 
