@@ -22,7 +22,7 @@ The app supports:
 | Feature | Description |
 |----------|-------------|
 | **Cancer Type Coverage** | Includes samples from **Skin (melanoma)**, **Liver (HCC)**, **Breast**, and **Kidney (RCC)** cancers. |
-| **Interactive Visualizations** | Response comparison across cell types, differential expression across cell types and studies|
+| **Interactive Visualizations** | Explore gene expression and response patterns across cell types and studies.|
 | **Download Support** | Allows exporting filtered DE results as `.tsv` tables. |
 
 ---
