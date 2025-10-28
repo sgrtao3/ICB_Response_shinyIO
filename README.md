@@ -21,9 +21,20 @@ The app supports:
 
 | Feature | Description |
 |----------|-------------|
+| **Interactive Visualizations** | Generates heatmaps, boxplots, CPM bar plots, dot plots, and lollipop plots. |
 | **Dynamic Gene Index** | Builds searchable gene lists on-demand for each dataset (PAN-T and CAR-T). |
 | **Interactive Visualizations** | Generates heatmaps, boxplots, CPM bar plots, dot plots, and lollipop plots. |
 | **Download Support** | Allows exporting filtered DE results as `.tsv` tables. |
+
+---
+
+## Dataset Source
+
+Pan-T Datasets are derived from the Nature Medicine (2023) publication:  
+> **"A single-cell immune atlas of solid tumors treated with immune checkpoint blockade"**  
+> [https://www.nature.com/articles/s41591-023-02371-y#data-availability](https://www.nature.com/articles/s41591-023-02371-y#data-availability)
+
+Data were accessed from the GEO/SCP repositories linked in the publication and reformatted for Shiny-based visualization.
 
 ---
 
